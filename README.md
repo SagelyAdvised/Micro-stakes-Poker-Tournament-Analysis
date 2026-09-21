@@ -78,12 +78,12 @@ At a 10-buy-in ($5) minimum swing threshold we see **53 pivots**, meaning 26 ups
 
 ## 7. Longest Drawdown: Context
 
-The single longest drawdown ran **154 tournaments over 14.2 days** (May 26 – June 9) was also the deepest at −$14.36 (almost 30 buy-ins). The drawdown was split into a sharp decline and a recovery phase. It is the phase shadeded red to pink to purplish.
+The single longest drawdown ran **154 tournaments over 14.2 days** (May 26 – June 9) was also the deepest at −$14.36 (almost 30 buy-ins). The drawdown was split into a sharp decline and a recovery phase. It is the tricolor-phase between the Before and After.
 
 ![Bankroll curve with longest drawdown annotated](images/drawdown_context1.png)
 
 - **Sharp Decline (peak → trough): 36 tournaments, 3.2 days** — The $14.36 loss happened here
-- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — This slow grind showed a flattened profit curve. The final dip ending at tournament 361 is marked by the transition from red to purple shading in the right part of the Recovery phase on the graph.
+- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — This slow grind showed a flattened profit curve. The final dip ending at tournament 361 is marked by the transition of colours at the right part of the Recovery phase on the graph.
 
 ### Context: Good News All Around
 
