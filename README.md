@@ -45,7 +45,6 @@ We see a distribution weighted towards 1st-place and overall higher place finish
 - **1st-place finishes: 61/1014 = 6.02%** are observed at roughly double the 3.12% expected by chance. (z-score = 5.29 indicates a very strong signal.)
 - **In-the-money rate: 213/1014 = 21.01%** vs. 15.62% expected. (z-score = 4.72 indicates a very strong signal.)
 - **Bottom quartile (25th–32nd): 100.4 observed vs. 253.5 expected (z-score = −11.11).** This is the single largest deviation from chance anywhere in the data, indicating a strong, consistent tendency to avoid the worst finishing places.
-- Top quartile (1st–8th): z = +5.48. Middle quartiles are modestly above chance as well.
 
 **Read together**: 'I am most likely to finish 1st.' and 'I rarely bust early.' 
 
@@ -60,7 +59,7 @@ We see a distribution weighted towards 1st-place and overall higher place finish
 
 ## 4. Envisioning the Long-Run
 Using bootstrap CIs we can visualize expected ROI in the short and long-runs. The graph below is the result of numerous 95% bootstrap CIs over increasing numbers of tournaments. So, for a certain number of tournaments, the uppermost and lowermost values of the shaded region define the uppermost and lowermost expected ROIs with 95% confidence. Again, for a certain number of tournaments, 19 out of 20 times the ROI will be in the shaded region. In the short-run, ROI variance is much greater, and can go negative. The larger the window, the more stable ROI is expected to be, tending towards a nice, juicy positive number around 30%.<br>
-At only 25 tournaments, there's a 31% chance of showing an overall loss purely from variance. That drops to 6% by 200 tournaments. It is effectively negligible by 700+. Results of smaller groups of tournament should be read with this in mind, as when I ask myself: Do I feel lucky? Well, do I? A. Irrelevant.
+At only 25 tournaments, there's a 31% chance of showing an overall loss purely from variance. That drops to 6% by 200 tournaments. It is effectively negligible by 700+. Results from smaller groups of tournaments should be read with this in mind, as when I ask myself: Do I feel lucky? Well, do I? A. Irrelevant.
 
 ![ROI by sample size](images/roi_by_sample_size.png)
 
