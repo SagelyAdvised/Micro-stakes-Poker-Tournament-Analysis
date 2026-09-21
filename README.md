@@ -26,10 +26,8 @@ The tournaments have the following payout structure:
 | 5th | $1.03 | 7.2% |
 | 6th–32nd | $0.00 | — |
 
-Payouts sum exactly to the $14.40 prize pool (32 × $0.45 net of the site's $0.05/entrant rake). Buy-in is $0.50 per entry; net result per tournament = payout − $0.50.
-
+The total prize pool is $14.40 (32  players × $0.45).
 ---
-
 
 - **Bootstrap 95% confidence interval on ROI: [15.27%, 52.89%]** — the entire interval stays above 0%, consistent with a real edge rather than pure variance.
 
