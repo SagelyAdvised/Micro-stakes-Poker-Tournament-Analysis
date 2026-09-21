@@ -52,13 +52,14 @@ We see a distribution weighted towards 1st-place and overall higher place finish
 ---
 
 ## 3. ROI Variance
-To answer the question: What might a future ROI over a similar number of tournaments be? Using bootstrap sampling I estimate that such a run of tournaments is quite likely (19 out of 20 times) to show an ROI between 15.2% and 52.9%, well above 0.0%. Below is a graph of the distribution of ROIs in such an analysis.
+Question: **What might a future ROI over a similar number of tournaments be?** Using bootstrap sampling I estimate that such a run of tournaments is quite likely (19 out of 20 times) to show an ROI between 15.2% and 52.9%, well above 0.0%. Below is a graph of the distribution of ROIs in such an analysis.
 
 ![Bootstrap ROI distribution](images/bootstrap_roi.png)
 
 ---
 
-## 4. Sample Size: Why Short Stretches Can Mislead
+## 4. Envisioning the Long-Run
+Using bootstrap sampling we can visualize expected ROI in the short and long-runs. The graph below is the result of numerous bootstrap CI analyses over increasing numbers of tournaments. So, for a certain number of tournaments, the uppermost and lowermost values of the shaded region define the uppermost and lowermost expected ROIs with 95% confidence for a certain window. Again, 19 out of 20 times we should expect the ROI to be in the shaded region. In the short-run, ROI variance is much greater, and can go negative. The larger the window, the more stable ROI is expected to be, tending towards a nice, juicy positive number.
 
 ![ROI by sample size](images/roi_by_sample_size.png)
 
