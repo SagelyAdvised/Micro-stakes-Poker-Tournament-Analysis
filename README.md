@@ -67,9 +67,9 @@ At only 25 tournaments, there's a 31% chance of showing an overall loss purely f
 
 ---
 
-## 5. Bankroll Swings: How Long Do Upswings and Downswings Last?
+## 5. Swings: How Often, How Long?
 
-Using a standard equity-curve technique (ZigZag) applied directly to the cumulative profit curve with no smoothing, no random baseline, and one interpretable parameter (minimum swing size =10):
+Going from bankroll a low-point to a high point or vice versa, there is a swing. How often they happen depends on how many buy-ins up or down you consider a swing. For example, we might say we have to go down or up a minimum of 10 buy-ins for a swing. The graph below  shows the result of using a ZigZag technique on the cumulative profit curve with no smoothing, no random baseline, and one parameter (minimum swing size =10).
 
 ![Bankroll ZigZag swings](images/bankroll_zigzag.png)
 
