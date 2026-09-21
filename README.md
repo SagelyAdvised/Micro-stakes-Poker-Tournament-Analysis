@@ -3,8 +3,10 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 [poker_analysis_report.md](https://github.com/user-attachments/files/32456907/poker_analysis_report.md)
 
 **Player:** zzombee **Site:** PokerStars
+
 **Scope:** $0.45 + $0.05 buy-in + fee, 32-max player, turbo
-**Sample:** 1,014 tournaments, April 18 – August 20, 2026
+
+**Sample:** 1,014 tournaments played April 18 – August 20, 2026
 
 ---
 ## Headline Results
@@ -13,7 +15,9 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 - returning **$0.49 per hour** over 347.7 hours over 311 sessions and a 124-day calendar span
 - **scalable +0.98 buy-ins per hour** playing an average of 1.82 tables at a time at that stake.
 
-## 
+## 1. Cumulative Bankroll Graph
+The cumulative graph of gains/losses starting at $0.00 shows a steady upward trend.
+![Bankroll curve](images/bankroll_curve.png)
 
 ## 1. Payout Structure
 
