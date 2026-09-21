@@ -3,9 +3,7 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 [poker_analysis_report.md](https://github.com/user-attachments/files/32456907/poker_analysis_report.md)
 
 **Player:** zzombee **Site:** PokerStars
-
 **Scope:** $0.45 + $0.05 buy-in + fee, 32-max player, turbo
-
 **Sample:** 1,014 tournaments played April 18 – August 20, 2026
 
 ---
