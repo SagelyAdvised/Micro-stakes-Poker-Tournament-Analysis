@@ -28,6 +28,7 @@ The tournaments have the following payout structure:
 | 6th–32nd | $0.00 | — |
 
 The total prize pool is $14.40 (32  players × $0.45).
+
 ---
 
 ## 1. Cumulative Bankroll
@@ -35,7 +36,7 @@ The cumulative graph of gains/losses starting at $0.00 shows a steady upward tre
 ![Bankroll curve](images/bankroll_curve.png)
 
 
-## 3. Finish Position: The Edge
+## 2. The Edge: Finish Position
 Expectation by chance in a 32-person tournament of finishing in any place is 1/32 = 3.12%. Here is a cumulative graph of every actual finishing position, also summarized by quartile of the field:
 
 ![Finish position individual and quartile panel](images/finish_combined_panel.png)
