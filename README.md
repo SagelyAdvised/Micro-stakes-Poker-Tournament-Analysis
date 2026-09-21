@@ -4,7 +4,7 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 
 **Player:** zzombee<br>
 **Site:** PokerStars<br>
-**Tournament Type:** $0.45 buy-in + $0.05 fee, 32-max player, turbo<br>
+**Tournament Type:** $0.50 buy-in ($0.45 + $0.05 fee), 32-max player, turbo<br>
 **Sample:** 1,014 tournaments played April 18 – August 20, 2026<br>
 
 ---
