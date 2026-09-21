@@ -67,19 +67,7 @@ At only 25 tournaments, there's a 31% chance of showing an overall loss purely f
 
 ---
 
-## 5. Does Chronological Order Matter? (Streakiness Check)
-
-Comparing the actual, chronologically-ordered 200-tournament rolling ROI against 1,000 random reshuffles of the same results:
-
-![Rolling ROI vs shuffled baseline](images/rolling_vs_permuted.png)
-
-The real sequence's volatility ranks at just the 1st percentile among shuffled versions — **less volatile than 99% of random reorderings of the same results.** This is mild evidence of unusually smooth, consistent performance over time, though it's a modest signal (not proof of a specific cause like fatigue or tilt — or its absence).
-
-![Rolling ROI at multiple window sizes](images/rolling_multi_window.png)
-
----
-
-## 6. Bankroll Swings: How Long Do Upswings and Downswings Last?
+## 5. Bankroll Swings: How Long Do Upswings and Downswings Last?
 
 Using a standard equity-curve technique (ZigZag) applied directly to the real cumulative profit curve — no smoothing, no random baseline, one interpretable parameter (minimum swing size):
 
@@ -115,32 +103,17 @@ The upswings immediately before and after this drawdown are, respectively, the *
 
 ---
 
-## 8. Worst-Case Losing Streaks (Reference)
-
-| Length | Duration | Lost | Dates |
-|---|---|---|---|
-| 16 in a row | 0.8 days | $8.00 | Jun 7–8 |
-| 16 in a row | 1.1 days | $8.00 | Aug 18–19 |
-| 15 in a row | 2.1 days | $7.50 | Jul 22–24 |
-| 13 in a row | 0.2 days | $6.50 | May 19 |
-| 13 in a row | 1.1 days | $6.50 | May 26–28 |
-
-These are simple worst-case facts, not statistical findings — a run of 16 non-cashing tournaments isn't an unusual outlier at this field size and 1st-place rate over 1,014 tournaments. Included for practical/psychological reference (the actual worst case experienced), not because it's structurally distinct in the bankroll curve.
-
----
-
 ## 9. Data Limitations
 
 **On "Place: 0" finishes** (5 of 1,014 tournaments, under 0.5% of cases):
 
-> What are recorded as 0-place finishes are not well-defined. I assume for calculation that they are early bust-outs.
-> They represent finishes before the tournament reached full-registration. These are losses, amongst the worst positions.
+> What are recorded as 0-place finishes are not well-defined. I assume for analysis that they are early bust-outs.
+> They represent finishes before the tournament reached full-registration. These are losses, amongst the earliest bust-outs.
 > They are well-defined in time, but several players could have the same 'finishing place'.
 > We account for these 0-place finishes by modeling them as evenly distributed amongst the worst half of losing positions.
 > This likely over-emphasizes the worst finishing positions, such as last place.
 > We are certain they are early losses of 1 unit buy-in. They are less than .5% of cases.
-> A down-sloping line or non-linear curve might be a more accurate model. 'I rarely bust early.' also works.
-> Assumption: They are a certain rare limited loss.
+> They are a certain rare limited loss.
 
 ---
 
