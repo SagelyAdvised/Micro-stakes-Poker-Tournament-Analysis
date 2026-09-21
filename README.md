@@ -77,7 +77,7 @@ At a 10-buy-in ($5) minimum swing threshold: **53 pivots, mean gap 18.8 tourname
 
 ---
 
-## 7. The Longest Drawdown, In Detail
+## 7. Longest Drawdown: Context
 
 ![Bankroll curve with longest drawdown annotated](images/bankroll_annotated.png)
 
