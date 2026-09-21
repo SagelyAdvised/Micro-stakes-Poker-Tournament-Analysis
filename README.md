@@ -83,16 +83,12 @@ The single longest drawdown ran **154 tournaments over 14.2 days** (May 26 – J
 
 ![Bankroll curve with longest drawdown annotated](images/drawdown_context1.png)
 
-- **Sharp Decline (peak → trough): 36 tournaments, 3.2 days** — the $14.36 loss happened here
-- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — a slow grind with a flattened profit curve. The final dip ending at tournament 361 is marked by the transition from red to purple shading in the right part of the Recovery phase on the graph.
+- **Sharp Decline (peak → trough): 36 tournaments, 3.2 days** — The $14.36 loss happened here
+- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — This slow grind showed a flattened profit curve. The final dip ending at tournament 361 is marked by the transition from red to purple shading in the right part of the Recovery phase on the graph.
 
 ### Context: Good News All Around
 
-The upswings immediately before and after this drawdown, labeled Before: Ascent and After: Ascent, are, respectively, the **2nd-longest and longest** sustained upswings in the entire 1,014-tournament history. The period following reverts to essentially the career-average pace ($0.145–0.157/tournament vs. $0.169 overall). So, the longest longest observed drawdown was book-ended by the good news of solid upswings.
-
-![Wider context around the longest drawdown](images/drawdown_context.png)
-
-*Note: with only 67 drawdown episodes and 26 upswings observed so far, "100th percentile" mainly means "the largest one seen to date" — this classification is expected to shift, in either direction, as more tournaments are played.*
+The upswings immediately before and after this drawdown, labeled Before: Ascent and After: Ascent, are, respectively, the **2nd-longest and longest sustained upswings** in the entire 1,014-tournament history. The period following reverts to essentially the career-average pace ($0.145–0.157/tournament vs. $0.169 overall). So, the longest longest observed drawdown was book-ended by the good news of two solid upswings.
 
 ---
 
