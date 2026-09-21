@@ -37,13 +37,13 @@ The cumulative graph of gains/losses starting at $0.00 shows a steady upward tre
 
 
 ## 2. The Edge: Finish Position
-In a 32-person tournament the expectation by chance finishing in any given place is 1/32 = 3.12%. Below is a cumulative graph of every actual finishing position on the left, also the same summarized by quartiles on the right:
+In a 32-person tournament the expectation by chance finishing in any given place is 1/32 = 3.12%. Below is a cumulative graph of actual finishing positions on the left, also the same summarized by quartiles on the right:
 
 ![Finish position individual and quartile panel](images/finish_combined_panel.png)
 
-We see a marked 1st place weighted distribution.
-- **1st-place rate: 61/1014 = 6.02%**, roughly double the 3.12% expected by chance (z-score = 5.29, indicating a very strong signal)
-- **In-the-money rate: 213/1014 = 21.01%**, vs. 15.62% expected (z-score = 4.72, a very strong signal)
+We see a distribution weighted towards 1st-place.
+- **1st-place finishes: 61/1014 = 6.02%** are observed at roughly double the 3.12% expected by chance. (z-score = 5.29 indicates a very strong signal.)
+- **In-the-money rate: 213/1014 = 21.01%** vs. 15.62% expected. (z-score = 4.72 indicates a very strong signal)
 - **Bottom quartile (25th–32nd): 100.4 observed vs. 253.5 expected (z-score = −11.11).** This is the single largest deviation from chance anywhere in the data, indicating a strong, consistent tendency to avoid the worst finishing places.
 - Top quartile (1st–8th): z = +5.48. Middle quartiles both modestly above chance as well.
 
