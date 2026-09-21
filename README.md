@@ -1,5 +1,5 @@
 # Micro-stakes-Poker-Tournament-Analysis
-An analysis of results of playing 1000 tournaments and micro-stakes on Poker Stars
+An analysis of results of playing about 1000 tournaments and micro-stakes on Poker Stars
 [poker_analysis_report.md](https://github.com/user-attachments/files/32456907/poker_analysis_report.md)
 # Tournament Poker Performance Analysis
 
