@@ -51,7 +51,7 @@ We see a distribution weighted towards 1st-place and overall higher place finish
 
 ---
 
-**##3. ROI Variance**
+##**3. ROI Variance**
 
 - **Bootstrap 95% confidence interval on ROI: [15.27%, 52.89%]** — the entire interval stays above 0%, consistent with a real edge rather than pure variance.
 
