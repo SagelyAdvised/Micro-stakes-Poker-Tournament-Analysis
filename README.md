@@ -60,7 +60,7 @@ Question: **What might a future ROI over a similar number of tournaments be?** U
 
 ## 4. Envisioning the Long-Run
 Using bootstrap analysis we can visualize expected ROI in the short and long-runs. The graph below is the result of numerous bootstrap CI 95% analyses over increasing numbers of tournaments. So, for a certain number of tournaments, the uppermost and lowermost values of the shaded region define the uppermost and lowermost expected ROIs with 95% confidence. Again, for a certain number of tournaments, 19 out of 20 times the ROI will be in the shaded region. In the short-run, ROI variance is much greater, and can go negative. The larger the window, the more stable ROI is expected to be, tending towards a nice, juicy positive number around 30%.<br>
-At only 25 tournaments, there's a 31% chance of showing an overall loss purely from variance, despite the real underlying edge. That drops to 6% by 200 tournaments and is effectively negligible by 500+. Small-sample results — a bad week, a good week — should be read with this in mind.
+At only 25 tournaments, there's a 31% chance of showing an overall loss purely from variance. That drops to 6% by 200 tournaments. It is effectively negligible by 700+. Results of smaller numbers of tournament results should be read with this in mind, as when I ask myself: Q. Do I feel lucky? Well, do I? A. Doesn't matter.
 
 ![ROI by sample size](images/roi_by_sample_size.png)
 
