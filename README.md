@@ -12,7 +12,7 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 
 - **33.78% ROI** for **$171.27 net profit** over 1,014 tournaments at $507.00 staked
 - returning **$0.49 per hour** over 347.7 hours over 311 sessions and a 124-day calendar span
-- **scalable +0.98 buy-ins per hour** playing an average of 1.82 tables at a time at that stake.
+- **scalable +0.98 buy-ins per hour**
 
 ## 1. Payout Structure
 
@@ -60,7 +60,7 @@ Question: **What might a future ROI over a similar number of tournaments be?** U
 
 ## 4. Envisioning the Long-Run
 Using bootstrap analysis we can visualize expected ROI in the short and long-runs. The graph below is the result of numerous bootstrap CI 95% analyses over increasing numbers of tournaments. So, for a certain number of tournaments, the uppermost and lowermost values of the shaded region define the uppermost and lowermost expected ROIs with 95% confidence. Again, for a certain number of tournaments, 19 out of 20 times the ROI will be in the shaded region. In the short-run, ROI variance is much greater, and can go negative. The larger the window, the more stable ROI is expected to be, tending towards a nice, juicy positive number around 30%.<br>
-At only 25 tournaments, there's a 31% chance of showing an overall loss purely from variance. That drops to 6% by 200 tournaments. It is effectively negligible by 700+. Results of smaller numbers of tournament results should be read with this in mind, as when I ask myself: Q. Do I feel lucky? Well, do I? A. Doesn't matter.
+At only 25 tournaments, there's a 31% chance of showing an overall loss purely from variance. That drops to 6% by 200 tournaments. It is effectively negligible by 700+. Results of smaller numbers of tournament results should be read with this in mind, as when I ask myself: Q. Do I feel lucky? Well, do I? A. Irrelevant.
 
 ![ROI by sample size](images/roi_by_sample_size.png)
 
