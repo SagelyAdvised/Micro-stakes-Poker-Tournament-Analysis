@@ -73,29 +73,24 @@ Going from a bankroll low-point to a high point or vice versa is a swing. Since 
 
 ![Bankroll ZigZag swings](images/bankroll_zigzag.png)
 
-At a 10-buy-in ($5) minimum swing threshold we see **53 pivots**, meaning 26 ups and 26 downs. The mean gap is 18.8 tournaments. Due to tournament format and playing style, both up and down swings are essentially symmetric (downswings mean 19.4, upswings mean 18.1). This changes depending on what is considered a swing. At 5 buy-ins the mean gap drops to ~9 tournaments, while at 20 buy-ins it rises past 100.
+At a 10-buy-in ($5) minimum swing threshold we see **53 pivots**, meaning 26 ups and 26 downs. The mean gap is 18.8 tournaments. Due to tournament format and playing style, both up and down swings are essentially symmetric (downswings mean 19.4, upswings mean 18.1). This changes dependent on what is considered a swing. At 5 buy-ins the mean gap drops to ~9 tournaments, while at 20 buy-ins it is over 100.
 
 ---
 
 ## 7. Longest Drawdown: Context
 
+The single longest drawdown ran **154 tournaments over 14.2 days** (May 26 – June 9) was also the deepest at −$14.36 (almost 30 buy-ins). The drawdown was split into a sharp decline and a recovery phase. It is the phase shadeded red to pink to purplish.
+
 ![Bankroll curve with longest drawdown annotated](images/drawdown_context1.png)
 
-The single longest drawdown ran **154 tournaments over 14.2 days** (May 26 – June 9) was also the deepest at −$14.36 (almost 30 buy-ins).
-
-The drawdown was split into sharp decline and a recovery phase.
-
 - **Sharp Decline (peak → trough): 36 tournaments, 3.2 days** — the $14.36 loss happened here
-- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — a slow grind, a flattened profit curve ending with a dip
-- A secondary, nearly-as-deep low ("double bottom") occurs mid-recovery at tournament 361 ($39.11) — only $2.29 above the global trough — after a partial bounce that didn't hold
+- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — a slow grind with a flattened profit curve ending with a dip at tournament 361 ($39.11) — $2.29 above the global trough — marked by the transition from red to purple in the right part of the Recovery phase on the graph.
 
-The decline was sharp and fast; the bulk of the duration was the patient recovery, not the drop itself.
+### Context: Good News All Around
 
-### Context: what brackets this drawdown
+The upswings immediately before and after this drawdown, labeled Before: Ascent and After: Ascent, are, respectively, the **2nd-longest and longest** sustained upswings in the entire 1,014-tournament history. The period following reverts to essentially the career-average pace ($0.145–0.157/tournament vs. $0.169 overall).
 
 ![Wider context around the longest drawdown](images/drawdown_context.png)
-
-The upswings immediately before and after this drawdown are, respectively, the **2nd-longest and longest** sustained upswings in the entire 1,014-tournament history (both auto-detected, ranked at the 96th and 100th percentile among all 26 upswings observed to date). The period following reverts to essentially the career-average pace ($0.145–0.157/tournament vs. $0.169 overall).
 
 *Note: with only 67 drawdown episodes and 26 upswings observed so far, "100th percentile" mainly means "the largest one seen to date" — this classification is expected to shift, in either direction, as more tournaments are played.*
 
