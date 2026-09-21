@@ -84,11 +84,11 @@ The single longest drawdown ran **154 tournaments over 14.2 days** (May 26 – J
 ![Bankroll curve with longest drawdown annotated](images/drawdown_context1.png)
 
 - **Sharp Decline (peak → trough): 36 tournaments, 3.2 days** — the $14.36 loss happened here
-- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — a slow grind with a flattened profit curve ending with a dip at tournament 361 ($39.11) — $2.29 above the global trough — marked by the transition from red to purple in the right part of the Recovery phase on the graph.
+- **Recovery (trough → back to prior peak): 118 tournaments, 11.0 days** — a slow grind with a flattened profit curve. The final dip ending at tournament 361 is marked by the transition from red to purple shading in the right part of the Recovery phase on the graph.
 
 ### Context: Good News All Around
 
-The upswings immediately before and after this drawdown, labeled Before: Ascent and After: Ascent, are, respectively, the **2nd-longest and longest** sustained upswings in the entire 1,014-tournament history. The period following reverts to essentially the career-average pace ($0.145–0.157/tournament vs. $0.169 overall).
+The upswings immediately before and after this drawdown, labeled Before: Ascent and After: Ascent, are, respectively, the **2nd-longest and longest** sustained upswings in the entire 1,014-tournament history. The period following reverts to essentially the career-average pace ($0.145–0.157/tournament vs. $0.169 overall). So, the longest longest observed drawdown was book-ended by the good news of solid upswings.
 
 ![Wider context around the longest drawdown](images/drawdown_context.png)
 
