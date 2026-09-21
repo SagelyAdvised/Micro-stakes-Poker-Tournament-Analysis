@@ -73,7 +73,7 @@ Using a standard equity-curve technique (ZigZag) applied directly to the real cu
 
 ![Bankroll ZigZag swings](images/bankroll_zigzag.png)
 
-At a 10-buy-in ($5) minimum swing threshold: **53 pivots, mean gap 18.8 tournaments, median 18.0** — both up and down swings, essentially symmetric (downswings mean 19.4, upswings mean 18.1). This is sensitive to the threshold choice; at 5 buy-ins the typical gap drops to ~9 tournaments, at 20 buy-ins it rises past 100. Reported explicitly rather than picking one number silently.
+At a 10-buy-in ($5) minimum swing threshold: **53 pivots, mean gap 18.8 tournaments, median 18.0** — both up and down swings, essentially symmetric (downswings mean 19.4, upswings mean 18.1). This is sensitive to the threshold choice; at 5 buy-ins the typical gap drops to ~9 tournaments, at 20 buy-ins it rises past 100.
 
 ---
 
