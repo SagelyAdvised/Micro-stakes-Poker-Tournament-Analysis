@@ -96,7 +96,7 @@ The upswings immediately before and after this drawdown, labeled Before: Ascent 
 
 **On "Place: 0" finishes** (5 of 1,014 tournaments, under 0.5% of cases):
 
-> What are recorded as 0-place finishes are not well-defined. I assume for analysis that they are early bust-outs.
+> What are recorded as 0-place finishes in the data are not well-defined. I assume for analysis that they are early bust-outs.
 > They represent finishes before the tournament reached full-registration. These are losses, amongst the earliest bust-outs.
 > They are well-defined in time, but several players could have the same 'finishing place'.
 > We account for these 0-place finishes by modeling them as evenly distributed amongst the worst half of losing positions.
