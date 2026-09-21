@@ -37,16 +37,17 @@ The cumulative graph of gains/losses starting at $0.00 shows a steady upward tre
 
 
 ## 2. The Edge: Finish Position
-Expectation by chance in a 32-person tournament of finishing in any place is 1/32 = 3.12%. Here is a cumulative graph of every actual finishing position, also summarized by quartile of the field:
+In a 32-person tournament the expectation by chance finishing in any given place is 1/32 = 3.12%. Below is a cumulative graph of every actual finishing position, also summarized by quartiles:
 
 ![Finish position individual and quartile panel](images/finish_combined_panel.png)
 
-- **1st-place rate: 61/1014 = 6.02%**, roughly double the 3.12% expected by chance (z = 5.29)
-- **In-the-money rate: 213/1014 = 21.01%**, vs. 15.62% expected (z = 4.72)
-- **Bottom quartile (25th–32nd): 100.4 observed vs. 253.5 expected — z = −11.11.** This is the single largest deviation from chance anywhere in the data: a strong, consistent tendency to avoid the very worst finishes, not just a tendency to occasionally win big.
+We see a marked 1-st place weighted distribution.
+- **1st-place rate: 61/1014 = 6.02%**, roughly double the 3.12% expected by chance (z-score = 5.29, indicating a very strong signal)
+- **In-the-money rate: 213/1014 = 21.01%**, vs. 15.62% expected (z-score = 4.72, a very strong signal)
+- **Bottom quartile (25th–32nd): 100.4 observed vs. 253.5 expected (z-score = −11.11).** This is the single largest deviation from chance anywhere in the data, indicating a strong, consistent tendency to avoid the worst finishing places.
 - Top quartile (1st–8th): z = +5.48. Middle quartiles both modestly above chance as well.
 
-**Read together**, the full histogram and the quartile summary rule out two competing stories: this isn't "occasional lucky wins offset by routine early busts" (the suppressed bottom quartile rules that out), and it isn't "grinds steadily but never closes" (the 1st-place spike and strong top quartile rule that out too). What's left is a specific, falsifiable claim: rarely blows up early, and disproportionately converts deep runs into wins.
+**Read together**: 'I am most likely to finish 1st.' and 'I rarely bust early.' 
 
 ---
 
