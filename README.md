@@ -32,7 +32,7 @@ The total prize pool is $14.40 (32  players × $0.45).
 ---
 
 ## 1. Cumulative Profit
-The cumulative graph of profit/loss starting at $0.00 shows a steady upward trend.
+The cumulative graph of profit/loss shows a steady upward trend.
 ![Bankroll curve](images/bankroll_curve.png)
 
 
