@@ -69,11 +69,11 @@ At only 25 tournaments, there's a 31% chance of showing an overall loss purely f
 
 ## 5. Swings: How Often, How Long?
 
-Going from bankroll a low-point to a high point or vice versa, there is a swing. How often they happen depends on how many buy-ins up or down you consider a swing. For example, we might say we have to go down or up a minimum of 10 buy-ins for a swing. The graph below  shows the result of using a ZigZag technique on the cumulative profit curve with no smoothing, no random baseline, and one parameter (minimum swing size =10).
+Going from bankroll a low-point to a high point or vice versa, there is a swing. Since that is alwasys happening, how often that changes depends on how many buy-ins up or down you consider a swing. For example, we might say we have to go down or up a minimum of 10 buy-ins for a swing. The graph below shows the result of using a ZigZag technique on the cumulative profit curve with no smoothing, no random baseline, and one parameter (minimum swing size =10).
 
 ![Bankroll ZigZag swings](images/bankroll_zigzag.png)
 
-At a 10-buy-in ($5) minimum swing threshold: **53 pivots, mean gap 18.8 tournaments, median 18.0** — both up and down swings, essentially symmetric (downswings mean 19.4, upswings mean 18.1). This is sensitive to the threshold choice; at 5 buy-ins the typical gap drops to ~9 tournaments, at 20 buy-ins it rises past 100.
+At a 10-buy-in ($5) minimum swing threshold we see **53 pivots**, meaning 26 ups and 26 downs. The mean gap is 18.8 tournaments. Due to tournament format and playing style, both up and down swings are essentially symmetric (downswings mean 19.4, upswings mean 18.1). This changes depending on what is considered a swing. At 5 buy-ins the mean gap drops to ~9 tournaments, while at 20 buy-ins it rises past 100.
 
 ---
 
