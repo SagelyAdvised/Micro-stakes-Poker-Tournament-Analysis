@@ -15,10 +15,6 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 - returning **$0.49 per hour** over 347.7 hours over 311 sessions and a 124-day calendar span
 - **scalable +0.98 buy-ins per hour** playing an average of 1.82 tables at a time at that stake.
 
-## 1. Cumulative Bankroll Graph
-The cumulative graph of gains/losses starting at $0.00 shows a steady upward trend.
-![Bankroll curve](images/bankroll_curve.png)
-
 ## 1. Payout Structure
 
 The tournaments have the following payout structure:
@@ -35,15 +31,13 @@ The tournaments have the following payout structure:
 The total prize pool is $14.40 (32  players × $0.45).
 ---
 
-- **Bootstrap 95% confidence interval on ROI: [15.27%, 52.89%]** — the entire interval stays above 0%, consistent with a real edge rather than pure variance.
+## 1. Cumulative Bankroll
+The cumulative graph of gains/losses starting at $0.00 shows a steady upward trend.
+![Bankroll curve](images/bankroll_curve.png)
 
-![Bootstrap ROI distribution](images/bootstrap_roi.png)
 
----
-
-## 3. Finish Position: Where the Edge Actually Shows Up
-
-Every finish position (1st–32nd), compared to what pure random chance would produce, alongside the same data summarized by quartile of the field:
+## 3. Finish Position: The Edge
+Expectation by chance in a 32-person tournament of finishing in any place is 1/32 = 3.12%. Here is a cumulative graph of every actual finishing position, also summarized by quartile of the field:
 
 ![Finish position individual and quartile panel](images/finish_combined_panel.png)
 
@@ -53,6 +47,12 @@ Every finish position (1st–32nd), compared to what pure random chance would pr
 - Top quartile (1st–8th): z = +5.48. Middle quartiles both modestly above chance as well.
 
 **Read together**, the full histogram and the quartile summary rule out two competing stories: this isn't "occasional lucky wins offset by routine early busts" (the suppressed bottom quartile rules that out), and it isn't "grinds steadily but never closes" (the 1st-place spike and strong top quartile rule that out too). What's left is a specific, falsifiable claim: rarely blows up early, and disproportionately converts deep runs into wins.
+
+---
+
+- **Bootstrap 95% confidence interval on ROI: [15.27%, 52.89%]** — the entire interval stays above 0%, consistent with a real edge rather than pure variance.
+
+![Bootstrap ROI distribution](images/bootstrap_roi.png)
 
 ---
 
