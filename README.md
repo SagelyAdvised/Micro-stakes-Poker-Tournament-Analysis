@@ -52,8 +52,7 @@ We see a distribution weighted towards 1st-place and overall higher place finish
 ---
 
 ## 3. ROI Variance
-To answer the question: What might a future ROI over a similar number of tournaments be? Using bootstrap sampling we estimate that such a run of tournaments is quite likely (19 out of 20 times) to show an ROI between 15.3% and 52.9%. The graph of this analysis is below.
-- **Bootstrap 95% confidence interval on ROI: [15.27%, 52.89%]**
+To answer the question: What might a future ROI over a similar number of tournaments be? Using bootstrap sampling I estimate that such a run of tournaments is quite likely (19 out of 20 times) to show an ROI between 15.2% and 52.9%, well above 0.0%. Below is a graph of the distribution of ROIs in such an analysis.
 
 ![Bootstrap ROI distribution](images/bootstrap_roi.png)
 
