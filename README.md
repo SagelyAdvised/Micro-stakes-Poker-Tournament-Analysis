@@ -11,7 +11,9 @@ Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a ve
 
 - **33.78% ROI** for **$171.27 net profit** over 1,014 tournaments at $507.00 staked
 - returning **$0.49 per hour** over 347.7 hours over 311 sessions and a 124-day calendar span
-- which is a **scalable +0.98 buy-ins per hour** playing an average of 1.82 tables at a time at that stake.
+- **scalable +0.98 buy-ins per hour** playing an average of 1.82 tables at a time at that stake.
+
+## 
 
 ## 1. Payout Structure
 
