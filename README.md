@@ -41,7 +41,7 @@ In a 32-person tournament the expectation by chance finishing in any given place
 
 ![Finish position individual and quartile panel](images/finish_combined_panel.png)
 
-We see a distribution weighted towards 1st-place.
+We see a distribution weighted towards 1st-place and overall higher place finishes.
 - **1st-place finishes: 61/1014 = 6.02%** are observed at roughly double the 3.12% expected by chance. (z-score = 5.29 indicates a very strong signal.)
 - **In-the-money rate: 213/1014 = 21.01%** vs. 15.62% expected. (z-score = 4.72 indicates a very strong signal)
 - **Bottom quartile (25th–32nd): 100.4 observed vs. 253.5 expected (z-score = −11.11).** This is the single largest deviation from chance anywhere in the data, indicating a strong, consistent tendency to avoid the worst finishing places.
