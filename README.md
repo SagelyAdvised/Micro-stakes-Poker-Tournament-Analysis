@@ -1,4 +1,3 @@
-# Micro-stakes-Poker-Tournament-Analysis
 Grinding 1014 micro-stakes 32-player tournaments on Poker Stars resulted in a very high **33.78% ROI**.
 [poker_analysis_report.md](https://github.com/user-attachments/files/32456907/poker_analysis_report.md)
 # Tournament Poker Performance Analysis
